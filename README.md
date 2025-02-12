@@ -4,6 +4,7 @@
 ## Stable Diffusion XL with LoRA Weights
 
 This repository contains a setup for generating images using **Stable Diffusion XL** with **LoRA** (Low-Rank Adaptation) weights. We use a fine-tuned LoRA checkpoint from the [ByteDance/Hyper-SD](https://huggingface.co/ByteDance/Hyper-SD) model and the [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) model as the base.
+![image](https://github.com/user-attachments/assets/f332a84e-4190-4e22-828d-0eb3e241e2fd)
 
 ### Installation
 
